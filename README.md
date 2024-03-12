@@ -25,7 +25,7 @@ I actively contribute to open-source projects on GitHub. Feel free to check out 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Prashant Bhandari](www.linkedin.com/in/prashant-bhandari-0144832a8)
+- LinkedIn: [Prashant Bhandari](https://www.linkedin.com/in/prashant-bhandari-0144832a8)
 - Email: [bhandariprashant128@gmail.com](mailto:bhandariprashant128@gmail.com)
 
 ## 🤝 Looking for Collaboration?
