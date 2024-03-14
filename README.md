@@ -8,7 +8,7 @@ I'm a passionate software developer with expertise in building web applications 
 
 ## 🚀 Skills
 
-- **Languages:** ``C``, ``C#``, ``JavaScript``, ``PHP``, ``Java``
+- **Languages:** ``C``, ``C#``, ``JavaScript``, ``PHP``, ``Java``, ``Python 3``
 - **Frameworks:** ``ASP.NET Core MVC``, ``ASP.NET Core Web API``
 - **ORM:** ``Entity Framework Core``
 - **Database:** ``SQL Server``, ``MySQL``
