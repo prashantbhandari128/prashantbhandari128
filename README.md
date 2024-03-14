@@ -9,11 +9,11 @@ I'm a passionate software developer with expertise in building web applications 
 
 ## 🚀 Skills
 
-- **Languages:** C#, JavaScript, PHP, Java
-- **Frameworks:** ASP.NET Core MVC, ASP.NET Core Web API
-- **ORM:** Entity Framework Core
-- **Database:** SQL Server, MySQL
-- **Tools:** VS code, Visual Studio, SSMS, Git, GitHub
+- **Languages:** ``C``, ``C#``, ``JavaScript``, ``PHP``, ``Java``
+- **Frameworks:** ``ASP.NET Core MVC``, ``ASP.NET Core Web API``
+- **ORM:** ``Entity Framework Core``
+- **Database:** ``SQL Server``, ``MySQL``
+- **Tools:** ``VS code``, ``Visual Studio``, ``SSMS``, ``Git``, ``GitHub``
 
 ## 🌱 Currently Learning
 
