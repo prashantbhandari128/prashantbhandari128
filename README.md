@@ -4,8 +4,7 @@ I'm a passionate software developer with expertise in building web applications 
 
 ## 💼 Professional Experience
 
-- **Software Developer** at **Leading Edge Software** - Working on cutting-edge projects using ``ASP.NET Core MVC``, ``ASP.NET Core Web API``, and ``Entity Framework Core``.
-- **Freelancer** - I provide custom software solutions tailored to meet the specific needs of my clients.
+- **Software Developer** at **Leading Edge Software** - Working on cutting-edge projects using ``ASP.NET Core MVC``, ``ASP.NET Core Web API``, ``Entity Framework Core`` and ``SQL Server``.
 
 ## 🚀 Skills
 
