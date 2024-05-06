@@ -18,17 +18,7 @@ I'm a passionate software developer with expertise in building web applications 
 
 I'm always eager to learn and stay up-to-date with the latest technologies. Currently, I am exploring ``ASP.NET Core Web API`` & ``Vue.js``.
 
-## 👨‍💻 Open Source Contributions
-
-I actively contribute to open-source projects on GitHub. Feel free to check out my repositories and collaborations.
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Prashant Bhandari](https://www.linkedin.com/in/prashant-bhandari-0144832a8)
 - Email: [bhandariprashant128@gmail.com](mailto:bhandariprashant128@gmail.com)
-
-## 🤝 Looking for Collaboration?
-
-I'm open to collaboration on exciting projects. If you have something interesting in mind, let's connect and discuss how we can work together.
-
-Let's build amazing things together! 🚀
