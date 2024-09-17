@@ -1,6 +1,6 @@
-# Hi there, I'm Prashant Bhandari! 👋
+# Prashant Bhandari
 
-I'm a passionate software developer with expertise in building web applications using ``ASP.NET Core MVC``, ``ASP.NET Core Web API``, ``Entity Framework Core``, and ``SQL Server``. I love solving complex problems and creating efficient, scalable solutions.
+A passionate programmer with a strong eagerness to learn and explore new technologies. Continuously seeking opportunities to expand knowledge and improve skills, with a commitment to staying updated in a fast-evolving tech landscape.
 
 ## 🚀 Skills
 
