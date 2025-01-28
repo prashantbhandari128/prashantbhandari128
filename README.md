@@ -1,6 +1,8 @@
-# Prashant Bhandari
+# Prashant Bhandari 
 
-A passionate programmer with a strong eagerness to learn and explore new technologies. Continuously seeking opportunities to expand knowledge and improve skills, with a commitment to staying updated in a fast-evolving tech landscape.
+Passionate Programmer | Technology Enthusiast | Lifelong Learner
+
+A dedicated and self-motivated software developer with expertise in a diverse set of programming languages and frameworks. Committed to continuous learning and staying up-to-date with industry trends, with a focus on delivering high-quality and scalable solutions.
 
 ## 🚀 Skills
 
